@@ -4,7 +4,7 @@
 
 This project compares different soil fractionation protocols that are used to separate soil components by presumed biogeochemical stability. The main goal is to evaluate whether results obtained from one method can be harmonized or “translated” into those obtained via another method.
 It accompanies the paper by Kpemoua et al. 2025.
-Contact Stojanova or Barre with any inquieries
+Contact Stojanova or Barré with any inquiries regarding the code and implementations, and Kpemoua and Barré regarding the paper and fractionation protocols.
 
 ## Contents
 
